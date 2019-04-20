@@ -1,4 +1,4 @@
-# ELL409_Assign
+# ELL409_Assign 1
 This code is implementation of Backpropagation algorithm.\
 -When code is run it asks user to enter number of hidden nodes ,learning rate and number of epochs\
 -corrosponding to each epoch code wile print output rms error for all training set\
